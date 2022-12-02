@@ -1,0 +1,38 @@
+.c-boton{
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color: #298DFF;
+}
+
+.barra-quieta{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: #9C6400;
+    /* width: 103vw; */
+}
+
+body{
+    background-color: #298DFF;
+}
+html,body{
+    min-width: 100%;
+}
+.todo{
+    max-width: 100%;
+    margin-right: 0px;
+}
+.l-horizontal{
+    flex-direction: row;
+}
+.ancho-comensales{
+    width: 40px;
+}
+.prueba{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.columnas{
+    margin-right: 0px;
+}
